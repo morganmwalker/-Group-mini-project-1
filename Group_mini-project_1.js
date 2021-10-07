@@ -20,3 +20,4 @@ console.log(four);
 console.log(five);
 console.log(seven);
 console.log(eight);
+console.log(nine);
